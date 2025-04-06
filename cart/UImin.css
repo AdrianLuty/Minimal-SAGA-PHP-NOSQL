@@ -1,0 +1,13 @@
+.item {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+button {
+  margin: 2px;
+}
+#countdown {
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px;
+}
